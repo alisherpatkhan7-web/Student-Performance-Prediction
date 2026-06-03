@@ -1,2 +1,2 @@
 # Student-Performance-Prediction
-Building a Student Performance Prediction System using GitHub
+ML model to predict student pass/fail
